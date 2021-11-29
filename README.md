@@ -14,3 +14,4 @@ Simple template using NodeJS and Mongoose to setup MongoDB connection
 # Run Server
 
 * node ./bin/www
+"# kururu-chat-bot" 
