@@ -15,3 +15,4 @@ Simple template using NodeJS and Mongoose to setup MongoDB connection
 
 * node ./bin/www
 "# kururu-chat-bot" 
+# accounts
